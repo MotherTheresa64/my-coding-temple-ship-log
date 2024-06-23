@@ -1,0 +1,1 @@
+You can switch branches and such as well as delete branches. See "advanceNavTech.md" for more info.
